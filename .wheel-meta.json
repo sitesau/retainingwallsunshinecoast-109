@@ -1,0 +1,22 @@
+{
+  "wheel_id": 676,
+  "structure": "umbrella",
+  "slug": "retainingwallsunshinecoast-109",
+  "project": "retaining-walls-sunshine-coast-questions-to-ask-dac86dde082856d",
+  "parent_t1_ref": "retainingwallsunshinecoast-154",
+  "node_role": "feeder",
+  "money_target": "retainingwallsunshinecoast.au",
+  "primary_kw": "retaining walls sunshine coast questions to ask",
+  "intended_url": "https://sitesau.github.io/retainingwallsunshinecoast-109/",
+  "tier": "T2",
+  "writeback_nonce": "66690079017d4dec",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-walls-sunshine-coast-how-to-choose-35a6c6796537d3cb1f/",
+      "anchor": "this page",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
